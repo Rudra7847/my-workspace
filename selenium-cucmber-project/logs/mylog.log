@@ -1,0 +1,11 @@
+[INFO ] 2022-12-27 20:56:55.406 [main] Steps - setup2 executed.....
+[INFO ] 2022-12-27 20:56:55.481 [main] Steps - user launch chrome browser.....
+[INFO ] 2022-12-27 20:57:01.481 [main] Steps - url opened.....
+[INFO ] 2022-12-27 20:57:02.026 [main] Steps - username and password entered
+[INFO ] 2022-12-27 20:57:04.723 [main] Steps - click on login button
+[WARN ] 2022-12-27 20:57:04.733 [main] Steps - Test passed:Page title matched
+[INFO ] 2022-12-27 20:57:09.868 [main] Steps - click on new customer
+[WARN ] 2022-12-27 20:57:09.879 [main] Steps - Test passed:Page title matched
+[INFO ] 2022-12-27 20:57:11.085 [main] Steps - enter customer information
+[INFO ] 2022-12-27 20:57:19.180 [main] Steps - click on submit button
+[WARN ] 2022-12-27 20:57:19.227 [main] Steps - Test passed:Page title matched
